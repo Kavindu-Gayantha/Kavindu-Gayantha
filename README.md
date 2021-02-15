@@ -10,4 +10,4 @@
 * Find what I have done <a href="https://github.com/Kavindu-Gayantha">Github</a> :octocat:
 * Catch me on <a href="https://www.youtube.com/channel/UC6RVPaqYWHRwBDpl7RFRrdg">Youtube :bell: ( channel - CODE Storm ) </a> :sunglasses:
 * My activities on <a href="https://stackoverflow.com/users/9173526/kavindu-gayantha">Stackoverflow</a> :hotsprings:
-* Don't forget to checkout my <a href="https://stackoverflow.com/users/9173526/kavindu-gayantha">resume :paperclip: </a> and <a href="https://kavindu-gayantha.github.io/">personal website</a> :computer: :earth_asia:
+* Don't forget to checkout my <a href="https://drive.google.com/file/d/1oTjEXg49xJmTGuyKeJPSonE_rPG-8YlH/view">resume :paperclip: </a> and <a href="https://kavindu-gayantha.github.io/">personal website</a> :computer: :earth_asia:
