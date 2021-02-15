@@ -1,2 +1,1 @@
-# Kavindu.Gayantha.github.io
-Portfolio Website of mine. for the second attempt.
+# Hi there, I'm Kavindu
